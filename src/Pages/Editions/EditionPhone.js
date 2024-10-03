@@ -19,7 +19,7 @@ const EditionPhone = () => {
       <section className="phone-edition">
         <div className="current-edition">
           <div className="edition-text">SRIJAN 2022-23</div>
-          <a href="https://drive.google.com/file/d/1vXwg9dcih1CIFUrbhVEI2yPelGecIgIf/view?usp=drive_link" target="_blank">
+          <a href="https://drive.google.com/file/d/1rtChbl4X6n3TIwi-SKLvx9D5U8vlD8XM/view?usp=drive_link" target="_blank">
             <img className="edition-img" 
             src={image2023} 
             alt="edition"
@@ -34,7 +34,7 @@ const EditionPhone = () => {
               alt="edition"
             ></img>
           </a>
-          <a href="https://drive.google.com/file/d/1qjMCAEk75KmO9mumi2fra55Ua3XB6qpt/view?usp=sharing" target="_blank">
+          <a href="https://drive.google.com/file/d/10sXlN12S37ILaF9AU_iMQhi62WTOsjuB/view?usp=drive_link" target="_blank">
             <img
               className="carousel-components"
               src={image2021}
