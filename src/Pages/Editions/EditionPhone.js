@@ -71,8 +71,8 @@ const EditionPhone = () => {
           </a>
         </Carousel>
         <div className="block1">
-          <NavLink to="/editions/all">
-            <h3>View all</h3>
+          <NavLink className="link" to="/editions/all">
+            <h3>View All</h3>
           </NavLink>
         </div>
       </section>
