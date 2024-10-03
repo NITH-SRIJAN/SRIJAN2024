@@ -103,11 +103,11 @@ const EditionsDesktop = () => {
           <div className="cards card-text">
             <h1>SRIJAN 2022-23</h1>
             <div className="block">
-              <h3>
                 <a href="https://drive.google.com/file/d/1rtChbl4X6n3TIwi-SKLvx9D5U8vlD8XM/view?usp=drive_link" target="_blank">
-                Read now
+                  <h3>
+                    Read now
+                  </h3>
                 </a>
-              </h3>
               <div className="block">
                 <NavLink to="/editions/all">
                   <h3>View all</h3>
@@ -122,11 +122,11 @@ const EditionsDesktop = () => {
             <img src={second} alt="second editon" />
             <h3>2021-22</h3>
             <div className="block">
-              <h3>
                 <a href="https://drive.google.com/file/d/1lqy5vTkv4erXBLndVKP5PuBxHZ-To3NR/view?usp=sharing" target="_blank">
-                  Read now
+                  <h3>
+                    Read now
+                  </h3>
                 </a>
-              </h3>
               <div className="block">
                 <NavLink to="/editions/all">
                   <h3>View all</h3>
@@ -138,11 +138,11 @@ const EditionsDesktop = () => {
             <img src={image2021} alt="first edition" />
             <h3>2020-21</h3>
             <div className="block">
-              <h3>
                 <a href="https://drive.google.com/file/d/10sXlN12S37ILaF9AU_iMQhi62WTOsjuB/view?usp=drive_link" target="_blank">
-                  Read now
+                  <h3>
+                    Read now
+                  </h3>
                 </a>
-              </h3>
               <div className="block">
                 <NavLink to="/editions/all">
                   <h3>View all</h3>
@@ -154,11 +154,11 @@ const EditionsDesktop = () => {
             <img src={first} alt="second editon" />
             <h3>2019-20</h3>
             <div className="block">
-              <h3>
                 <a href="https://drive.google.com/file/d/1lmBbYQvnFDeM7KNqZ6L0J7RtadBBle4E/view?usp=sharing" target="_blank">
-                  Read now
+                  <h3>
+                    Read now
+                  </h3>
                 </a>
-              </h3>
               <div className="block">
                 <NavLink to="/editions/all">
                   <h3>View all</h3>
