@@ -104,7 +104,7 @@ const EditionsDesktop = () => {
             <h1>SRIJAN 2022-23</h1>
             <div className="block">
               <h3>
-                <a href="https://drive.google.com/file/d/1vXwg9dcih1CIFUrbhVEI2yPelGecIgIf/view?usp=drive_link" target="_blank">
+                <a href="https://drive.google.com/file/d/1rtChbl4X6n3TIwi-SKLvx9D5U8vlD8XM/view?usp=drive_link" target="_blank">
                 Read now
                 </a>
               </h3>
@@ -139,7 +139,7 @@ const EditionsDesktop = () => {
             <h3>2020-21</h3>
             <div className="block">
               <h3>
-                <a href="https://drive.google.com/file/d/1qjMCAEk75KmO9mumi2fra55Ua3XB6qpt/view?usp=sharing" target="_blank">
+                <a href="https://drive.google.com/file/d/10sXlN12S37ILaF9AU_iMQhi62WTOsjuB/view?usp=drive_link" target="_blank">
                   Read now
                 </a>
               </h3>
