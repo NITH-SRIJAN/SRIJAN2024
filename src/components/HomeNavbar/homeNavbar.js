@@ -22,6 +22,15 @@ const HomeNavbar = () => {
     btn.classList.remove('none');
     btn2.classList.add('none');
   }
+
+  document.addEventListener(
+    'keydown' , (event) =>{
+      if(event.key === 'Escape' &&  document.querySelector('.btn').classList.contains('none')){
+        removed();
+      }
+    }
+  )
+
   return (
     <div className="H-navbar">
 
