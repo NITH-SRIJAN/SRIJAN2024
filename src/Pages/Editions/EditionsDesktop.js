@@ -1,9 +1,9 @@
 import React, { useRef, useState } from "react";
 // import Card from './components/Card/Card';
-import first from "./../../Assets/images/first.jpg";
 import second from "./../../Assets/images/second.jpg";
 import image2021 from "../../Assets/images/2020-2021.png";
-import latest from "../../Assets/images/SRIJAN 2022-23.png";
+import image2023 from "../../Assets/images/SRIJAN 2022-23.png";
+import latest from "../../Assets/images/2023-2024.png";
 import "./../../Assets/css/Edition.css";
 import Navbar from "../../components/NewNavbar.js/NewNavbar";
 import { NavLink } from "react-router-dom";
@@ -101,9 +101,9 @@ const EditionsDesktop = () => {
         </div>
         <div className="maincard" ref={cardContainer}>
           <div className="cards card-text">
-            <h1>SRIJAN 2022-23</h1>
+            <h1>SRIJAN 2023-24</h1>
             <div className="block">
-                <a href="https://drive.google.com/file/d/1rtChbl4X6n3TIwi-SKLvx9D5U8vlD8XM/view?usp=drive_link" target="_blank">
+                <a href="https://drive.google.com/drive/folders/1tIVTfX8WvCQce_ppVU2PDIHTbEkFtARq" target="_blank">
                   <h3>
                     Read now
                   </h3>
@@ -119,7 +119,23 @@ const EditionsDesktop = () => {
             <img className="firstimg" src={latest} alt="first edition" />
           </div>
           <div className="cards" id="second">
-            <img src={second} alt="second editon" />
+            <img src={image2023} alt="second editon" />
+            <h3>2022-23</h3>
+            <div className="block">
+                <a href="https://drive.google.com/file/d/1rtChbl4X6n3TIwi-SKLvx9D5U8vlD8XM/view?usp=drive_link" target="_blank">
+                  <h3>
+                    Read now
+                  </h3>
+                </a>
+              <div className="block">
+                <NavLink to="/editions/all">
+                  <h3>View all</h3>
+                </NavLink>
+              </div>
+            </div>
+          </div>
+          <div className="cards">
+            <img src={second} alt="first edition" />
             <h3>2021-22</h3>
             <div className="block">
                 <a href="https://drive.google.com/file/d/1lqy5vTkv4erXBLndVKP5PuBxHZ-To3NR/view?usp=sharing" target="_blank">
@@ -134,27 +150,11 @@ const EditionsDesktop = () => {
               </div>
             </div>
           </div>
-          <div className="cards">
-            <img src={image2021} alt="first edition" />
+          <div className="cards third" ref={thirdcard} id="second">
+            <img src={image2021} alt="second editon" />
             <h3>2020-21</h3>
             <div className="block">
                 <a href="https://drive.google.com/file/d/10sXlN12S37ILaF9AU_iMQhi62WTOsjuB/view?usp=drive_link" target="_blank">
-                  <h3>
-                    Read now
-                  </h3>
-                </a>
-              <div className="block">
-                <NavLink to="/editions/all">
-                  <h3>View all</h3>
-                </NavLink>
-              </div>
-            </div>
-          </div>
-          <div className="cards third" ref={thirdcard} id="second">
-            <img src={first} alt="second editon" />
-            <h3>2019-20</h3>
-            <div className="block">
-                <a href="https://drive.google.com/file/d/1lmBbYQvnFDeM7KNqZ6L0J7RtadBBle4E/view?usp=sharing" target="_blank">
                   <h3>
                     Read now
                   </h3>

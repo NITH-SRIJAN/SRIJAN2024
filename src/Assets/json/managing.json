@@ -1,57 +1,92 @@
 [
     {
-        "name": "Arsh Aggarwal",
+        "name": "Gaurav",
         "title": "",
-        "background": "https://res.cloudinary.com/dqiqrfthq/image/upload/v1713027622/SRIJAN2023/Responses/Arsh_Aggarwal_dldyn9.jpg",
-        "foreground": "https://res.cloudinary.com/dqiqrfthq/image/upload/v1713027622/SRIJAN2023/Responses/Arsh_Aggarwal_dldyn9.jpg",
-        "github": "",
-        "linkedin": "http://linkedin.com/in/arshaggarwal25",
-        "insta": "https://www.instagram.com/arshaggarwal25?igsh=aXZzempkcHR4dzFz",
-        "designation":"Managing Editor"
-    }, {
-        "name": "Mridul Chauhan",
+        "background": "https://res.cloudinary.com/dqiqrfthq/image/upload/v1712779966/SRIJAN2023/Responses/apvtkziirorcxhcstjbl.jpg",
+        "foreground": "https://res.cloudinary.com/dqiqrfthq/image/upload/v1712779966/SRIJAN2023/Responses/apvtkziirorcxhcstjbl.jpg",
+        "github": "https://github.com/Cozylynx",
+        "linkedin": "",
+        "insta": "https://www.instagram.com/gaurav_thapa_27",
+        "designation": "Managing Editor"
+    },
+    {
+        "name": "Honey Poddar",
         "title": "",
-        "background": "https://res.cloudinary.com/dqiqrfthq/image/upload/v1713279726/SRIJAN2023/Responses/Mridul-pic_o75hce.jpg",
-        "foreground": "https://res.cloudinary.com/dqiqrfthq/image/upload/v1713279726/SRIJAN2023/Responses/Mridul-pic_o75hce.jpg",
-        "github": "",
-        "linkedin": "linkedin.com/in/mridul-chauhan-00748320a",
-        "insta": "https://www.instagram.com/tomboy_towngirl",
-        "designation":"Managing Editor"
-    }, {
-        "name": "Ayush",
-        "title": "",
-        "background": "https://res.cloudinary.com/dqiqrfthq/image/upload/v1712779947/SRIJAN2023/Responses/lxpnl42goz5isenbsutn.jpg",
-        "foreground": "https://res.cloudinary.com/dqiqrfthq/image/upload/v1712779947/SRIJAN2023/Responses/lxpnl42goz5isenbsutn.jpg",
-        "github": "",
-        "linkedin": "https://www.linkedin.com/me?trk=p_mwlite_me_notifications-secondary_nav",
-        "insta": "Instagram.com/verma_ayush16",
-        "designation":"Managing Editor"
-    }, {
-        "name": "Sidharth",
-        "title": "",
-        "background": "https://res.cloudinary.com/dqiqrfthq/image/upload/v1713027617/SRIJAN2023/Responses/sidhart-pic-1_irmsms.jpg",
-        "foreground": "https://res.cloudinary.com/dqiqrfthq/image/upload/v1713027617/SRIJAN2023/Responses/sidhart-pic-1_irmsms.jpg",
+        "background": "https://res.cloudinary.com/dqiqrfthq/image/upload/v1712779992/SRIJAN2023/Responses/tbpg5r62vncuok388ngk.jpg",
+        "foreground": "https://res.cloudinary.com/dqiqrfthq/image/upload/v1712779992/SRIJAN2023/Responses/tbpg5r62vncuok388ngk.jpg",
         "github": "",
         "linkedin": "",
-        "insta": "https://www.instagram.com/it_aint_sid?igsh=ejFmZmk2NnZmajU3",
-        "designation":"Managing Member"
-    }, {
-        "name": "Abhi khandelwal",
+        "insta": "https://www.instagram.com/hpthehoney",
+        "designation": "Managing Editor"
+    },
+    {
+        "name": "Radhesh",
         "title": "",
-        "background": "https://res.cloudinary.com/dqiqrfthq/image/upload/v1713027995/SRIJAN2023/Responses/abhi-pic_zix5me.jpg",
-        "foreground": "https://res.cloudinary.com/dqiqrfthq/image/upload/v1713027995/SRIJAN2023/Responses/abhi-pic_zix5me.jpg",
+        "background": "https://res.cloudinary.com/dqiqrfthq/image/upload/v1712779977/SRIJAN2023/Responses/wfv7ifkvsxshs8bgscnp.jpg",
+        "foreground": "https://res.cloudinary.com/dqiqrfthq/image/upload/v1712779977/SRIJAN2023/Responses/wfv7ifkvsxshs8bgscnp.jpg",
         "github": "",
-        "linkedin": "https://www.linkedin.com/in/abhi-khandelwal-30b06a190?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
-        "insta": "https://www.instagram.com/__abhi_khandelwal?igsh=bjE2MXI5bzI0dzhl",
-        "designation":"Managing Member"
-    }, {
-        "name": "Manan Pathania",
+        "linkedin": "https://www.linkedin.com/in/radhesh-choudhary-3863a921b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+        "insta": "https://www.instagram.com/radhesh_chaudhary",
+        "designation": "Managing Editor"
+    },
+    {
+        "name": "Dhananjay ",
         "title": "",
-        "background": "https://res.cloudinary.com/dqiqrfthq/image/upload/v1713027997/SRIJAN2023/Responses/manan-pic_ejhyiv.jpg",
-        "foreground": "https://res.cloudinary.com/dqiqrfthq/image/upload/v1713027997/SRIJAN2023/Responses/manan-pic_ejhyiv.jpg",
+        "background": "https://res.cloudinary.com/dqiqrfthq/image/upload/v1712779974/SRIJAN2023/Responses/golkqqsgbhnnvkkeavai.jpg",
+        "foreground": "https://res.cloudinary.com/dqiqrfthq/image/upload/v1712779974/SRIJAN2023/Responses/golkqqsgbhnnvkkeavai.jpg",
         "github": "",
-        "linkedin": "https://www.linkedin.com/in/manan-pathania-027968214",
-        "insta": "https://instagram.com/hypnagogic.hallucinations?utm_source=qr&igshid=OGIxMTE0OTdkZA==",
-        "designation":"Managing Member"
+        "linkedin": "",
+        "insta": "",
+        "designation": "Managing Member"
+    },
+    {
+        "name": "Aanchal",
+        "title": "",
+        "background": "https://res.cloudinary.com/dqiqrfthq/image/upload/v1712779959/SRIJAN2023/Responses/ebnjizsakho5rqrxrxbm.jpg",
+        "foreground": "https://res.cloudinary.com/dqiqrfthq/image/upload/v1712779959/SRIJAN2023/Responses/ebnjizsakho5rqrxrxbm.jpg",
+        "github": "",
+        "linkedin": "",
+        "insta": "https://www.instagram.com/real__agc",
+        "designation": "Managing Member"
+    },
+    {
+        "name": "Gitartha Shandillya",
+        "title": "",
+        "background": "https://res.cloudinary.com/dqiqrfthq/image/upload/v1712779989/SRIJAN2023/Responses/qekythla42pwnfaktx1r.jpg",
+        "foreground": "https://res.cloudinary.com/dqiqrfthq/image/upload/v1712779989/SRIJAN2023/Responses/qekythla42pwnfaktx1r.jpg",
+        "github": "",
+        "linkedin": "",
+        "insta": "https://www.instagram.com/wanderer_gitartha",
+        "designation": "Managing Member"
+    },
+    {
+        "name": "Jils Thakkar",
+        "title": "",
+        "background": "https://res.cloudinary.com/dqiqrfthq/image/upload/v1712780017/SRIJAN2023/Responses/d2rgilnm4lmjq7aifogf.jpg",
+        "foreground": "https://res.cloudinary.com/dqiqrfthq/image/upload/v1712780017/SRIJAN2023/Responses/d2rgilnm4lmjq7aifogf.jpg",
+        "github": "https://github.com/JilsT",
+        "linkedin": "https://www.linkedin.com/in/jils-thakkar/",
+        "insta": "https://www.instagram.com/jilsthakkar",
+        "designation": "Managing Member"
+    },
+    {
+        "name": "Shubham",
+        "title": "",
+        "background": "https://res.cloudinary.com/dqiqrfthq/image/upload/v1712779970/SRIJAN2023/Responses/tiayad3gspcds5udtahx.jpg",
+        "foreground": "https://res.cloudinary.com/dqiqrfthq/image/upload/v1712779970/SRIJAN2023/Responses/tiayad3gspcds5udtahx.jpg",
+        "github": "https://github.com/shubham043",
+        "linkedin": "",
+        "insta": "https://www.instagram.com/shubham__0043",
+        "designation": "Managing Member"
+    },
+    {
+        "name": "Radhika",
+        "title": "",
+        "background": "https://res.cloudinary.com/dqiqrfthq/image/upload/v1714416973/SRIJAN2023/Responses/ayneqahtd9yw7tf2q2ta.jpg",
+        "foreground": "https://res.cloudinary.com/dqiqrfthq/image/upload/v1714416973/SRIJAN2023/Responses/ayneqahtd9yw7tf2q2ta.jpg",
+        "github": "",
+        "linkedin": "https://www.linkedin.com/in/radhika-885bb922b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+        "insta": "https://www.instagram.com/rapidrightradhika?igsh=bmJhNWxueWI0c3Bw",
+        "designation": "Managing Member"
     }
 ]

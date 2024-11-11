@@ -42,6 +42,14 @@ const Gallery = () => {
         "https://lh3.googleusercontent.com/u/0/d/183VonfPyXxKhiE7hnUQT2LyalioyO6o5",
         "https://lh3.googleusercontent.com/u/0/d/1KdkFlPSfB7tPzm7uacVjMR-3V03dQewM",
         "https://lh3.googleusercontent.com/u/0/d/1BpU-ukDkVl_LYaQEpcle7x0q8RWnOa6U",
+        "https://res.cloudinary.com/dwfmsplse/image/upload/v1714119766/drive-download-20240426T075830Z-001/ly1vbzgmlougiorvnqhp.jpg",
+        "https://res.cloudinary.com/dwfmsplse/image/upload/v1714119760/drive-download-20240426T075830Z-001/tcoxmlgachw3pvkidftq.jpg",
+        "https://res.cloudinary.com/dwfmsplse/image/upload/v1714119757/drive-download-20240426T075830Z-001/dlsasu58yska2n9oioui.jpg",
+        "https://res.cloudinary.com/dwfmsplse/image/upload/v1714119748/drive-download-20240426T075830Z-001/rigtdorb23sjtr3i5zuo.jpg",
+        "https://res.cloudinary.com/dwfmsplse/image/upload/v1714119747/drive-download-20240426T075830Z-001/zjdjtcuhffa4mrikgs2l.jpg",
+        "https://res.cloudinary.com/dwfmsplse/image/upload/v1714119738/drive-download-20240426T075830Z-001/iyfjad5fqky773kscwvl.jpg",
+        "https://res.cloudinary.com/dwfmsplse/image/upload/v1714119734/drive-download-20240426T075830Z-001/zcg8csiuyifcc3qqigsi.jpg"
+
     ]
 
     return (

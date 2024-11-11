@@ -18,15 +18,16 @@
     border: 0.2rem white solid;
     border-radius: 15rem;
     margin: 1rem;
+    padding: 2rem;
 }
 
 .page h1 {
-    padding: 0  8rem;
+    padding: 0 8rem;
     border: 1px white;
     color: white;
     margin: 0;
     align-items: center;
-    font-size: 8rem;
+    font-size: 6rem;
     font-family: 'Hanken Grotesk', sans-serif;
     text-align: center;
 }

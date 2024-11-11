@@ -4,7 +4,6 @@ import head from '../../Assets/json/head.json'
 import managing from '../../Assets/json/managing.json'
 import executive from '../../Assets/json/executive.json'
 import associate from '../../Assets/json/associate.json'
-import volunteer from '../../Assets/json/volunteer.json'
 import { BsGithub } from "react-icons/bs";
 import { AiOutlineLinkedin } from "react-icons/ai";
 import { AiOutlineInstagram } from "react-icons/ai";
@@ -27,9 +26,6 @@ const HeroCards = (props) => {
     } else if (year === 3) {
         Heros = associate;
         Rank = "Associate"
-    } else {
-        Heros = volunteer;
-        Rank = "Volunteer";
     }
 
     return (

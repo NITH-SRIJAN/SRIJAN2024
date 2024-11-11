@@ -8,6 +8,7 @@ import image2018 from "../../Assets/images/2016-2017.png";
 import image2017 from "../../Assets/images/2017-2018.png";
 import image2019 from "../../Assets/images/2018-2019.png";
 import image2023 from "../../Assets/images/SRIJAN 2022-23.png";
+import image2024 from "../../Assets/images/2023-2024.png";
 import Navbar from "../../components/NewNavbar.js/NewNavbar";
 import { NavLink } from "react-router-dom";
 
@@ -19,14 +20,20 @@ const EditionPhone = () => {
       <section className="phone-edition">
         <div className="current-edition">
           <div className="edition-text">SRIJAN 2022-23</div>
-          <a href="https://drive.google.com/file/d/1rtChbl4X6n3TIwi-SKLvx9D5U8vlD8XM/view?usp=drive_link" target="_blank">
+          <a href="https://drive.google.com/drive/folders/1tIVTfX8WvCQce_ppVU2PDIHTbEkFtARq" target="_blank">
             <img className="edition-img" 
-            src={image2023} 
+            src={image2024} 
             alt="edition"
             ></img>
           </a>
         </div>
         <Carousel itemsToShow={3}>
+        <a href="https://drive.google.com/file/d/1rtChbl4X6n3TIwi-SKLvx9D5U8vlD8XM/view?usp=drive_link" target="_blank">
+            <img className="carousel-components" 
+            src={image2023} 
+            alt="edition"
+            ></img>
+          </a>
           <a href="https://drive.google.com/file/d/1lqy5vTkv4erXBLndVKP5PuBxHZ-To3NR/view?usp=sharing>" target="_blank">
             <img
               className="carousel-components"
@@ -59,13 +66,6 @@ const EditionPhone = () => {
             <img
               className="carousel-components"
               src={image2018}
-              alt="edition"
-            ></img>
-          </a>
-          <a href="https://drive.google.com/file/d/1rag_ijpEnO93SxTg1v_vIi8VYBsSo-nC/view?usp=drive_link" target="_blank">
-            <img
-              className="carousel-components"
-              src={image2017}
               alt="edition"
             ></img>
           </a>

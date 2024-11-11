@@ -1,131 +1,102 @@
-[{
-    "name": "Gaurav",
+[
+    {
+    "name": "Shambhav Mishra",
     "title": "",
-    "background": "https://res.cloudinary.com/dqiqrfthq/image/upload/v1712779966/SRIJAN2023/Responses/apvtkziirorcxhcstjbl.jpg",
-    "foreground": "https://res.cloudinary.com/dqiqrfthq/image/upload/v1712779966/SRIJAN2023/Responses/apvtkziirorcxhcstjbl.jpg",
-    "github": "https://github.com/Cozylynx",
-    "linkedin": "",
-    "insta": "https://www.instagram.com/gaurav_thapa_27",
-    "designation":"Associate Member"
-},
-{
-    "name": "Anshita Verma",
-    "title": "",
-    "background": "https://res.cloudinary.com/dqiqrfthq/image/upload/v1712780017/SRIJAN2023/Responses/fvxe2cqz330mvcgdjc2y.jpg",
-    "foreground": "https://res.cloudinary.com/dqiqrfthq/image/upload/v1712780017/SRIJAN2023/Responses/fvxe2cqz330mvcgdjc2y.jpg",
+    "background": "https://res.cloudinary.com/dqiqrfthq/image/upload/v1712780017/SRIJAN2023/Responses/ajywgv5fexilp0jwk3ct.jpg",
+    "foreground": "https://res.cloudinary.com/dqiqrfthq/image/upload/v1712780017/SRIJAN2023/Responses/ajywgv5fexilp0jwk3ct.jpg",
     "github": "",
     "linkedin": "",
-    "insta": "https://www.instagram.com/annshhita",
-    "designation":"Associate Editor"
+    "insta": "https://www.instagram.com/shambhavvv",
+    "designation":"Executive Editor"
 },
 {
-    "name": "Honey Poddar",
+    "name": "Rahul Nayek",
     "title": "",
-    "background": "https://res.cloudinary.com/dqiqrfthq/image/upload/v1712779992/SRIJAN2023/Responses/tbpg5r62vncuok388ngk.jpg",
-    "foreground": "https://res.cloudinary.com/dqiqrfthq/image/upload/v1712779992/SRIJAN2023/Responses/tbpg5r62vncuok388ngk.jpg",
+    "background": "https://res.cloudinary.com/dqiqrfthq/image/upload/v1712779968/SRIJAN2023/Responses/dvvhjp1jzrr46yn5n39j.jpg",
+    "foreground": "https://res.cloudinary.com/dqiqrfthq/image/upload/v1712779968/SRIJAN2023/Responses/dvvhjp1jzrr46yn5n39j.jpg",
+    "github": "https://github.com/rahulnayekk",
+    "linkedin": "",
+    "insta": "https://www.instagram.com/rahulnayekk",
+    "designation":"Executive Editor"
+},
+{
+    "name": "Yash Pandey",
+    "title": "",
+    "background": "https://res.cloudinary.com/dqiqrfthq/image/upload/v1712779990/SRIJAN2023/Responses/gwdulkhodyomyzflf9pw.jpg",
+    "foreground": "https://res.cloudinary.com/dqiqrfthq/image/upload/v1712779990/SRIJAN2023/Responses/gwdulkhodyomyzflf9pw.jpg",
+    "github": "",
+    "linkedin": "https://www.linkedin.com/in/yash-pandey-b02579288?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+    "insta": "https://www.instagram.com/yash._.pandey",
+    "designation":"Executive Editor"
+},
+{
+    "name": "Guncha anam",
+    "title": "",
+    "background": "https://res.cloudinary.com/dqiqrfthq/image/upload/v1712779991/SRIJAN2023/Responses/wquy6qpzmw9xlcbnpuhg.jpg",
+    "foreground": "https://res.cloudinary.com/dqiqrfthq/image/upload/v1712779991/SRIJAN2023/Responses/wquy6qpzmw9xlcbnpuhg.jpg",
+    "github": "https://github.com/gunchaanam",
+    "linkedin": "https://www.linkedin.com/in/guncha-anam-a9921726b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+    "insta": "https://www.instagram.com/never_existed_31",
+    "designation":"Executive Editor"
+},
+{
+    "name": "Sauren Sharma",
+    "title": "",
+    "background": "https://res.cloudinary.com/dqiqrfthq/image/upload/v1712779959/SRIJAN2023/Responses/gtpmgsthlj6zqjh8ustj.jpg",
+    "foreground": "https://res.cloudinary.com/dqiqrfthq/image/upload/v1712779959/SRIJAN2023/Responses/gtpmgsthlj6zqjh8ustj.jpg",
+    "github": "https://github.com/Dralt03",
+    "linkedin": "https://www.linkedin.com/in/sauren-sharma",
+    "insta": "https://www.instagram.com/_s.a.u.r.e.n_",
+    "designation":"Executive Designer"
+},
+{
+    "name": "Jaspreet Walia",
+    "title": "",
+    "background": "https://res.cloudinary.com/dqiqrfthq/image/upload/v1712780013/SRIJAN2023/Responses/qwwavkeyekcwuv48zmao.jpg",
+    "foreground": "https://res.cloudinary.com/dqiqrfthq/image/upload/v1712780013/SRIJAN2023/Responses/qwwavkeyekcwuv48zmao.jpg",
     "github": "",
     "linkedin": "",
-    "insta": "https://www.instagram.com/hpthehoney",
-    "designation":"Associate Editor"
+    "insta": "https://www.instagram.com/Jass24.walia",
+    "designation":"Executive Developer"
 },
 {
-    "name": "Arshita Mehta",
+    "name": "Krish Guleria",
     "title": "",
-    "background": "https://res.cloudinary.com/dqiqrfthq/image/upload/v1712779963/SRIJAN2023/Responses/a0wkjndbqke7nskau7pn.jpg",
-    "foreground": "https://res.cloudinary.com/dqiqrfthq/image/upload/v1712779963/SRIJAN2023/Responses/a0wkjndbqke7nskau7pn.jpg",
-    "github": "",
-    "linkedin": "https://www.linkedin.com/in/arshita-mehta-b0043927b",
-    "insta": "https://www.instagram.com/arshita.mehta",
-    "designation":"Associate Designer"
+    "background": "https://res.cloudinary.com/dqiqrfthq/image/upload/v1712779963/SRIJAN2023/Responses/xmulntodmjk8davwwdi8.jpg",
+    "foreground": "https://res.cloudinary.com/dqiqrfthq/image/upload/v1712779963/SRIJAN2023/Responses/xmulntodmjk8davwwdi8.jpg",
+    "github": "https://github.com/guleriakrish",
+    "linkedin": "",
+    "insta": "https://www.instagram.com/guleria_krish",
+    "designation":"Executive Editor"
 },
 {
-    "name": "Satakshi Kumari",
+    "name": "Vanshika",
     "title": "",
-    "background": "https://res.cloudinary.com/dqiqrfthq/image/upload/v1712779960/SRIJAN2023/Responses/blty7ki7ayj9m1qgbbht.jpg",
-    "foreground": "https://res.cloudinary.com/dqiqrfthq/image/upload/v1712779960/SRIJAN2023/Responses/blty7ki7ayj9m1qgbbht.jpg",
+    "background": "https://res.cloudinary.com/dwfmsplse/image/upload/v1731363711/saugm8pfqakqu2ea5jtb.jpg",
+    "foreground": "https://res.cloudinary.com/dwfmsplse/image/upload/v1731363711/saugm8pfqakqu2ea5jtb.jpg",
     "github": "",
     "linkedin": "",
-    "insta": "",
-    "designation":"Associate Editor"
+    "insta": "https://www.instagram.com/bwaa_vanshika",
+    "designation":"Executive Editor"
 },
 {
-    "name": "Radhesh",
+    "name": "Riya Anand",
     "title": "",
-    "background": "https://res.cloudinary.com/dqiqrfthq/image/upload/v1712779977/SRIJAN2023/Responses/wfv7ifkvsxshs8bgscnp.jpg",
-    "foreground": "https://res.cloudinary.com/dqiqrfthq/image/upload/v1712779977/SRIJAN2023/Responses/wfv7ifkvsxshs8bgscnp.jpg",
+    "background": "https://res.cloudinary.com/dqiqrfthq/image/upload/v1712779988/SRIJAN2023/Responses/dwtvfadevwsqlzuhvbbd.jpg",
+    "foreground": "https://res.cloudinary.com/dqiqrfthq/image/upload/v1712779988/SRIJAN2023/Responses/dwtvfadevwsqlzuhvbbd.jpg",
     "github": "",
-    "linkedin": "https://www.linkedin.com/in/radhesh-choudhary-3863a921b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
-    "insta": "https://www.instagram.com/radhesh_chaudhary",
-    "designation":"Associate Designer"
+    "linkedin": "https://www.linkedin.com/in/riya-anand-18671825a",
+    "insta": "https://www.instagram.com/reyy_anand",
+    "designation":"Executive Editor"
 },
 {
-    "name": "Arin Sharma",
+    "name": "Ashutosh Trivedi ",
     "title": "",
-    "background": "https://res.cloudinary.com/dqiqrfthq/image/upload/v1712779957/SRIJAN2023/Responses/mss2gyywvqisrvc6prkc.jpg",
-    "foreground": "https://res.cloudinary.com/dqiqrfthq/image/upload/v1712779957/SRIJAN2023/Responses/mss2gyywvqisrvc6prkc.jpg",
-    "github": "https://github.com/arinsharma123",
-    "linkedin": "",
-    "insta": "https://www.instagram.com/arin__07",
-    "designation":"Associate Editor"
-},
-{
-    "name": "Dhananjay ",
-    "title": "",
-    "background": "https://res.cloudinary.com/dqiqrfthq/image/upload/v1712779974/SRIJAN2023/Responses/golkqqsgbhnnvkkeavai.jpg",
-    "foreground": "https://res.cloudinary.com/dqiqrfthq/image/upload/v1712779974/SRIJAN2023/Responses/golkqqsgbhnnvkkeavai.jpg",
+    "background": "https://res.cloudinary.com/dqiqrfthq/image/upload/v1712779956/SRIJAN2023/Responses/atqrn2naqtlpkj4cbwws.jpg",
+    "foreground": "https://res.cloudinary.com/dqiqrfthq/image/upload/v1712779956/SRIJAN2023/Responses/atqrn2naqtlpkj4cbwws.jpg",
     "github": "",
     "linkedin": "",
-    "insta": "",
-    "designation":"Associate Editor"
-},
-{
-    "name": "Aanchal",
-    "title": "",
-    "background": "https://res.cloudinary.com/dqiqrfthq/image/upload/v1712779959/SRIJAN2023/Responses/ebnjizsakho5rqrxrxbm.jpg",
-    "foreground": "https://res.cloudinary.com/dqiqrfthq/image/upload/v1712779959/SRIJAN2023/Responses/ebnjizsakho5rqrxrxbm.jpg",
-    "github": "",
-    "linkedin": "",
-    "insta": "https://www.instagram.com/real__agc",
-    "designation":"Associate Designer"
-},
-{
-    "name": "Gitartha Shandillya",
-    "title": "",
-    "background": "https://res.cloudinary.com/dqiqrfthq/image/upload/v1712779989/SRIJAN2023/Responses/qekythla42pwnfaktx1r.jpg",
-    "foreground": "https://res.cloudinary.com/dqiqrfthq/image/upload/v1712779989/SRIJAN2023/Responses/qekythla42pwnfaktx1r.jpg",
-    "github": "",
-    "linkedin": "",
-    "insta": "https://www.instagram.com/wanderer_gitartha",
-    "designation":"Associate Editor"
-},
-{
-    "name": "Jils Thakkar",
-    "title": "",
-    "background": "https://res.cloudinary.com/dqiqrfthq/image/upload/v1712780017/SRIJAN2023/Responses/d2rgilnm4lmjq7aifogf.jpg",
-    "foreground": "https://res.cloudinary.com/dqiqrfthq/image/upload/v1712780017/SRIJAN2023/Responses/d2rgilnm4lmjq7aifogf.jpg",
-    "github": "https://github.com/JilsT",
-    "linkedin": "https://www.linkedin.com/in/jils-thakkar/",
-    "insta": "https://www.instagram.com/jilsthakkar",
-    "designation":"Associate Developer"
-},
-{
-    "name": "Shubham",
-    "title": "",
-    "background": "https://res.cloudinary.com/dqiqrfthq/image/upload/v1712779970/SRIJAN2023/Responses/tiayad3gspcds5udtahx.jpg",
-    "foreground": "https://res.cloudinary.com/dqiqrfthq/image/upload/v1712779970/SRIJAN2023/Responses/tiayad3gspcds5udtahx.jpg",
-    "github": "https://github.com/shubham043",
-    "linkedin": "",
-    "insta": "https://www.instagram.com/shubham__0043",
-    "designation":"Associate Developer"
-},
-{
-    "name": "Radhika",
-    "title": "",
-    "background": "https://res.cloudinary.com/dqiqrfthq/image/upload/v1714416973/SRIJAN2023/Responses/ayneqahtd9yw7tf2q2ta.jpg",
-    "foreground": "https://res.cloudinary.com/dqiqrfthq/image/upload/v1714416973/SRIJAN2023/Responses/ayneqahtd9yw7tf2q2ta.jpg",
-    "github": "",
-    "linkedin": "https://www.linkedin.com/in/radhika-885bb922b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
-    "insta": "https://www.instagram.com/rapidrightradhika?igsh=bmJhNWxueWI0c3Bw",
-    "designation":"Associate Editor"
+    "insta": "https://www.instagram.com/@ashutosh3vedi",
+    "designation":"Executive Editor"
 }
 ]

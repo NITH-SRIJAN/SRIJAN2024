@@ -8,7 +8,7 @@ const Contributions = (props) => {
                 <Navbar />
             </div>
             <div className='page'>
-                <div class="vl"></div>
+                <div className="vl"></div>
                 <div className='cont-content'>
                     <h1>COMING</h1>
                     <h1>SOON</h1>

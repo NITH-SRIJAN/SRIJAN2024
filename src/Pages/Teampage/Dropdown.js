@@ -12,10 +12,9 @@ const Dropdown = (props) => {
         <div className="dropdown">
           <select className="dropSelect" onChange={dropdownChangeHandler} >
             <option value="0">Heads</option>
-            <option value="1">Managing Members</option>
-            <option value="2">Executive Members</option>
-            <option value="3">Associate Members</option>
-            <option value="4">Volunteers</option>
+            <option value="1">Executive Members</option>
+            <option value="2">Associate Members</option>
+            <option value="3">Managing Members</option>
           </select>
         </div>
       </>
