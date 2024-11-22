@@ -19,8 +19,8 @@ const EditionPhone = () => {
       <Navbar />
       <section className="phone-edition">
         <div className="current-edition">
-          <div className="edition-text">SRIJAN 2022-23</div>
-          <a href="https://drive.google.com/drive/folders/1tIVTfX8WvCQce_ppVU2PDIHTbEkFtARq" target="_blank">
+          <div className="edition-text">SRIJAN 2023-24</div>
+          <a href="https://drive.google.com/file/d/1WqSMW-E7y-OqsrQXF03TRC4Frlxzg0jV/view?usp=drive_link" target="_blank">
             <img className="edition-img" 
             src={image2024} 
             alt="edition"
