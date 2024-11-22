@@ -28,7 +28,7 @@ const EditionsCard = () => {
     {
       year: "2023-2024",
       imageSrc: image2024,
-      link: "https://drive.google.com/file/d/1WqSMW-E7y-OqsrQXF03TRC4Frlxzg0jV/view?usp=drive_link",
+      link: "https://drive.google.com/file/d/1078JyEIw45q7blAeXCEuAZJugdzTYQ6n/view?usp=drive_link",
     },
     {
       year: "2022-2023",

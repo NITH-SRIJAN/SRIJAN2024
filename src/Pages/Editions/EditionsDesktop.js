@@ -103,7 +103,7 @@ const EditionsDesktop = () => {
           <div className="cards card-text">
             <h1>SRIJAN 2023-24</h1>
             <div className="block">
-                <a href="https://drive.google.com/file/d/1WqSMW-E7y-OqsrQXF03TRC4Frlxzg0jV/view?usp=drive_link" target="_blank">
+                <a href="https://drive.google.com/file/d/1078JyEIw45q7blAeXCEuAZJugdzTYQ6n/view?usp=drive_link" target="_blank">
                   <h3>
                     Read now
                   </h3>
