@@ -3,7 +3,8 @@ import React, { useRef, useState } from "react";
 import second from "./../../Assets/images/second.jpg";
 import image2021 from "../../Assets/images/2020-2021.png";
 import image2023 from "../../Assets/images/SRIJAN 2022-23.png";
-import latest from "../../Assets/images/2023-2024.png";
+import image2024 from "../../Assets/images/2023-2024.png";
+import latest from "../../Assets/images/2024-2025.png";
 import "./../../Assets/css/Edition.css";
 import Navbar from "../../components/NewNavbar.js/NewNavbar";
 import { NavLink } from "react-router-dom";
@@ -101,9 +102,9 @@ const EditionsDesktop = () => {
         </div>
         <div className="maincard" ref={cardContainer}>
           <div className="cards card-text">
-            <h1>SRIJAN 2023-24</h1>
+            <h1>SRIJAN 2024-25</h1>
             <div className="block">
-                <a href="https://drive.google.com/file/d/1078JyEIw45q7blAeXCEuAZJugdzTYQ6n/view?usp=drive_link" target="_blank">
+                <a href="https://drive.google.com/file/d/1-wcs8CAANGjdh6iJQX2eQiTwuX7bIhys/view?usp=drive_link" target="_blank" rel="noreferrer">
                   <h3>
                     Read now
                   </h3>
@@ -119,10 +120,26 @@ const EditionsDesktop = () => {
             <img className="firstimg" src={latest} alt="first edition" />
           </div>
           <div className="cards" id="second">
-            <img src={image2023} alt="second editon" />
+            <img src={image2024} alt="2023-24 edition" />
+            <h3>2023-24</h3>
+            <div className="block">
+                <a href="https://drive.google.com/file/d/1078JyEIw45q7blAeXCEuAZJugdzTYQ6n/view?usp=drive_link" target="_blank" rel="noreferrer">
+                  <h3>
+                    Read now
+                  </h3>
+                </a>
+              <div className="block">
+                <NavLink to="/editions/all">
+                  <h3>View all</h3>
+                </NavLink>
+              </div>
+            </div>
+          </div>
+          <div className="cards" id="third">
+            <img src={image2023} alt="2022-23 edition" />
             <h3>2022-23</h3>
             <div className="block">
-                <a href="https://drive.google.com/file/d/1rtChbl4X6n3TIwi-SKLvx9D5U8vlD8XM/view?usp=drive_link" target="_blank">
+                <a href="https://drive.google.com/file/d/1rtChbl4X6n3TIwi-SKLvx9D5U8vlD8XM/view?usp=drive_link" target="_blank" rel="noreferrer">
                   <h3>
                     Read now
                   </h3>

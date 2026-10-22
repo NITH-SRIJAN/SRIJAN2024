@@ -14,8 +14,7 @@ html {
 .container {
     max-width: 970px;
     margin: 0 auto;
-    /* margin-left: 13rem; */
-    padding: 8rem 10rem 5rem 0rem;
+    padding: 8rem 2rem 5rem;
     color: white;
     font-family: 'Hanken Grotesk', sans-serif;
 }
@@ -42,8 +41,9 @@ html {
 
 .container .products-container {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(32rem, 1fr));
-    gap: 6rem 0rem;
+    grid-template-columns: repeat(auto-fill, minmax(23rem, 1fr));
+    gap: 6rem 2rem;
+    justify-items: center;
 }
 
 .container .products-container .product {
@@ -71,7 +71,7 @@ html {
 
 .container .products-container h1 {
     padding: .5rem 3.5rem;
-    font-size: 2/4rem;
+    font-size: 2.4rem;
     color: white;
 }
 

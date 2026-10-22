@@ -11,6 +11,7 @@ import image2017 from "../../Assets/images/2017-2018.png";
 import image2018 from "../../Assets/images/2018-2019.png";
 import image2023 from "../../Assets/images/SRIJAN 2022-23.png";
 import image2024 from "../../Assets/images/2023-2024.png";
+import image2025 from "../../Assets/images/2024-2025.png";
 import first from "../../Assets/images/first.jpg";
 import second from "../../Assets/images/second.jpg";
 
@@ -25,6 +26,11 @@ import image2002_03 from "../../Assets/images/image2002_03.png";
 
 const EditionsCard = () => {
   const data = [
+    {
+      year: "2024-2025",
+      imageSrc: image2025,
+      link: "https://drive.google.com/file/d/1-wcs8CAANGjdh6iJQX2eQiTwuX7bIhys/view?usp=drive_link",
+    },
     {
       year: "2023-2024",
       imageSrc: image2024,
