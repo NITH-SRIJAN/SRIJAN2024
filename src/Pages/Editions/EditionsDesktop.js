@@ -155,7 +155,7 @@ const EditionsDesktop = () => {
             <img src={second} alt="first edition" />
             <h3>2021-22</h3>
             <div className="block">
-                <a href="https://drive.google.com/file/d/1lqy5vTkv4erXBLndVKP5PuBxHZ-To3NR/view?usp=sharing" target="_blank">
+                <a href="https://drive.google.com/file/d/1lqy5vTkv4erXBLndVKP5PuBxHZ-To3NR/view?usp=sharing" target="_blank" rel="noreferrer">
                   <h3>
                     Read now
                   </h3>
@@ -171,7 +171,7 @@ const EditionsDesktop = () => {
             <img src={image2021} alt="second editon" />
             <h3>2020-21</h3>
             <div className="block">
-                <a href="https://drive.google.com/file/d/10sXlN12S37ILaF9AU_iMQhi62WTOsjuB/view?usp=drive_link" target="_blank">
+                <a href="https://drive.google.com/file/d/10sXlN12S37ILaF9AU_iMQhi62WTOsjuB/view?usp=drive_link" target="_blank" rel="noreferrer">
                   <h3>
                     Read now
                   </h3>

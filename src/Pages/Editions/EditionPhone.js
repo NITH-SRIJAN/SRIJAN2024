@@ -5,7 +5,6 @@ import image2020 from "../../Assets/images/first.jpg";
 import image2022 from "../../Assets/images/second.jpg";
 import image2021 from "../../Assets/images/2020-2021.png";
 import image2018 from "../../Assets/images/2016-2017.png";
-import image2017 from "../../Assets/images/2017-2018.png";
 import image2019 from "../../Assets/images/2018-2019.png";
 import image2023 from "../../Assets/images/SRIJAN 2022-23.png";
 import image2024 from "../../Assets/images/2023-2024.png";
@@ -46,7 +45,7 @@ const EditionPhone = () => {
         >
           <SwiperSlide>
             <a href="https://drive.google.com/file/d/1078JyEIw45q7blAeXCEuAZJugdzTYQ6n/view?usp=drive_link" target="_blank" rel="noreferrer">
-              <img className="edition-img" src={image2025} alt="edition" />
+              <img className="edition-img" src={image2024} alt="edition" />
             </a>
           </SwiperSlide>
           <SwiperSlide>

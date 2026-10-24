@@ -148,7 +148,7 @@ const EditionsCard = () => {
               <img src={data.imageSrc} alt="" />
             </div>
             <h1>SRIJAN {data.year}</h1>
-              <a style={{ textDecoration: "none" , color : "black"}} href={data.link} target="_blank">
+              <a style={{ textDecoration: "none" , color : "black"}} href={data.link} target="_blank" rel="noreferrer">
                 <Button className="button--big" >
                   Read Now
                 </Button>
