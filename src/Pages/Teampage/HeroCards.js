@@ -11,21 +11,16 @@ import { AiOutlineInstagram } from "react-icons/ai";
 
 const HeroCards = (props) => {
     let Heros = head;
-    let Rank = "Heads";
 
     const year = props.year;
     if (year === 0) {
         Heros = head;
-        Rank = "Head";
     } else if (year === 1) {
         Heros = managing;
-        Rank = "Managing";
     } else if (year === 2) {
         Heros = executive;
-        Rank = "Executive"
     } else if (year === 3) {
         Heros = associate;
-        Rank = "Associate"
     }
 
     return (
